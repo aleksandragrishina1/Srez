@@ -1,0 +1,6 @@
+@APIGri_HostAddress = http://localhost:5177
+
+GET {{APIGri_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
